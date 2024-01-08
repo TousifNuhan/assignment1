@@ -276,7 +276,29 @@
     position: absolute;
 }
 
+.texts{
+    color: rgba(7, 12, 17, 0.6);
+    width: 450px;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Inter', sans-serif;
+    padding-bottom: 30px;
+}
 
+.some-pictures{
+    display: flex;
+    justify-content: space-between;
+}
+
+.some-pictures div{
+    width: 500px;
+    
+}
+
+.some-pictures img{
+   width: 100%;
+    
+}
 
 
 
