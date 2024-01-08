@@ -77,6 +77,15 @@
     
 }
 
+.tot{
+    
+    display: flex;
+}
+
+#pict{
+    max-height: 300px;
+}
+
 .welcome{
     color: #FFF;
     font-family: 'Merriweather', serif;
@@ -107,7 +116,8 @@
     padding: 80px;
     text-align: center;
     background:linear-gradient(180deg, rgba(255,0,0,0.10) 0%, rgba( 255,0,0,0.00)100%);
-    margin-top: 100px;
+    margin-top: 80px;
+   
 }
 
 .red{
@@ -135,3 +145,144 @@
     border: 1px solid red;
     border-radius: 5px;
 }
+.get-offer{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+
+
+.new-offer{
+    color: #f00;
+    font-size: 17px;
+    padding: 8px;
+}
+
+.best-offer{
+    margin: 80px;
+}
+
+.soon{
+    color: #070211;
+    font-size: 35px;
+    font-weight: 700;
+    padding: 10px;
+}
+
+.text{
+   color: rgba(7, 12, 17, 0.6);
+   width: 250px;
+   font-size: 20px;
+   font-weight: 900;
+   font-family: 'Inter', sans-serif;
+}
+
+.picture-only{
+    border: 15px solid #f00;
+    border-radius: 350px;
+}
+
+.friends{
+    height: 326px;
+    width: 339px;
+    padding: 20px;
+}
+
+.new-year{
+    margin: 80px;
+}
+
+.year{
+    color: #f00;
+    font-size: 37px;
+    font-weight: 700;
+    padding: 5px;
+}
+
+.para{
+    color: rgba(7, 12, 17, 0.6);
+    width: 250px;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Inter', sans-serif;
+    padding: 5px;
+}
+
+.pic{
+    font-size: 30px;
+}
+
+.big-sale{
+    margin: 100px;
+    
+     text-align: center;
+}
+
+.functional{
+    font-size:20px;
+    padding: 15px;
+    font-family: 'Inter', sans-serif;
+}
+
+.holiday{
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Merriweather', serif;
+    padding: 15px;
+}
+
+.sale-details{
+    font-family: 'Inter', sans-serif;
+    color: rgba(7, 12, 17, 0.6);
+    font-size: 15px;
+    font-weight: 900;
+    /* max-width: 200px; */
+}
+#reds{
+    color: #f00;
+}
+.pictures{
+    display: flex;
+    justify-content: space-around;
+    background: url("images/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    padding-bottom: 129px;
+   
+}
+
+.first{
+   height: 250px;
+   width: 350px;
+  padding-top: 250px;
+   
+}
+.second{
+   height: 100px;
+   width: 139px;
+}
+
+.third{
+    height: 400px;
+    width: 438px;
+}
+
+.firsts {
+   
+    position: absolute;
+}
+.seconds{
+    margin: 190px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
